@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Nayara Aquino",
+        "cpf": "09752090435",
+        "email": "nayaraquino7@gmail.com",
+        "whatsapp": "82987066578",
+        "address": {
+            "postalCode": "57071150",
+            "street": "Rua Doutor Murilo Cardoso Santana",
+            "number": "200",
+            "details": "ap 121",
+            "district": "Clima Bom",
+            "city_state": "Maceió/AL"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv": {
+        "name": "Nayara Aquino",
+        "cpf": "09752090435AA",
+        "email": "nayaraquino7@gmail.com",
+        "whatsapp": "82987066578",
+        "address": {
+            "postalCode": "57071150",
+            "street": "Rua Doutor Murilo Cardoso Santana",
+            "number": "200",
+            "details": "ap 121",
+            "district": "Clima Bom",
+            "city_state": "Maceió/AL"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Nayara Aquino",
+        "cpf": "09752090435",
+        "email": "nayaraquino.com.br",
+        "whatsapp": "82987066578",
+        "address": {
+            "postalCode": "57071150",
+            "street": "Rua Doutor Murilo Cardoso Santana",
+            "number": "200",
+            "details": "ap 121",
+            "district": "Clima Bom",
+            "city_state": "Maceió/AL"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}

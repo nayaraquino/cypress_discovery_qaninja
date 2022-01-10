@@ -1,0 +1,19 @@
+{
+  "name": "cypressinitialproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1": "echo \"Error: no test specified\" && exit 1",
+    "test": "npx cypress open",
+    "cy:open": "npx cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.2.0",
+    "cypress-file-upload": "^5.0.8",
+    "faker": "^5.5.3"
+  }
+}
