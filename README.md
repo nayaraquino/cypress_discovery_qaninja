@@ -1,7 +1,9 @@
-# Teste com Cypress
-### Cypress Discovery - QA Ninja
+# Teste de GUI com Cypress
+### [Cypress Discovery](https://qaninja.academy/curso/cypress-discovery/) - QAninja
 ---
-Projeto desenvolvido para o curso Cypress Discovery do QA Ninja.
+Projeto desenvolvido para o curso Cypress Discovery do [QAninja](https://qaninja.academy/).
+
+#### :information_source: O projeto de testes foi realizado sobre a aplicação [Buger Eats](https://buger-eats-qa.vercel.app), desenvolvida pelo [Fernando Papito](https://www.linkedin.com/in/papitoio/) para a realização do curso =)
 
 ## :books: Conceitos Apresentados no Módulo
 - Introdução ao Javascript
